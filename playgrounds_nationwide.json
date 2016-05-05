@@ -1,0 +1,25 @@
+{
+  "count": 2235,
+  "message": "Showing 2235 places, hover over a place for info",
+  "places": [
+    {
+      "tpval": "PLAYGROUNDS",
+      "idval": "1893253",
+      "lat": 40.7176162,
+      "lng": -74.0138196,
+      "lnk": "playgrounds/1893253/governor-nelson-a-rockefeller-park",
+      "nam": "Governor Nelson A Rockefeller Park",
+      "cat": "Playgrounds and Kid Friendly Parks",
+      "pho": "",
+      "hd1": "",
+      "hd2": "",
+      "hd3": "",
+      "hd4": "",
+      "adr": "Chambers St, New York NY",
+      "geo": "",
+      "dsc": "",
+      "ico": "icon_p_green",
+      "sp4": ""
+    }
+  ]
+}

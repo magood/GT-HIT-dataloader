@@ -1,0 +1,25 @@
+{
+  "count": 868,
+  "message": "Showing 868 places, hover over a place for info",
+  "places": [
+    {
+      "tpval": "RAILS2TRAILS",
+      "idval": "4",
+      "lat": 40.9467,
+      "lng": -124.099,
+      "lnk": "rails2trails/4/hammond-trail,-ca",
+      "nam": "Hammond Trail, CA",
+      "cat": "",
+      "pho": "",
+      "hd1": "Miles: 3",
+      "hd2": "Surface Type: Asphalt, Crushed Stone",
+      "hd3": "Activities: Walking, Horseback Riding, Biking, In-line Skating, Wheelchair Accessible",
+      "hd4": "Description: Although the north coast of California usually brings to mind towering old-growth forests (and the controversy that surrounds logging those forests), the Hammond coastal Trail showcases the spectacula...",
+      "adr": "McKinleyville CA",
+      "geo": "LOCATED AT CITY CENTER",
+      "dsc": "Although the north coast of California usually brings to mind towering old-growth forests (and the controversy that surrounds logging those forests), the Hammond coastal Trail showcases the spectacular...",
+      "ico": "icon_r_green",
+      "sp4": ""
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "count": 1275,
+  "message": "Showing 1275 places, hover over a place for info",
+  "places": [
+    {
+      "tpval": "PICK_YOUR_OWN",
+      "idval": "1522917",
+      "lat": 43.31515,
+      "lng": -71.43114,
+      "lnk": "pick-your-own/1522917/meadow-ledge-farm",
+      "nam": "Meadow Ledge Farm",
+      "cat": "Pick Your Own Fruit",
+      "pho": "",
+      "hd1": "",
+      "hd2": "",
+      "hd3": "",
+      "hd4": "",
+      "adr": "612 Route 129, Loudon NH",
+      "geo": "",
+      "dsc": "",
+      "ico": "icon_p_pink",
+      "sp4": ""
+    }
+  ]
+}

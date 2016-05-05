@@ -1,0 +1,25 @@
+{
+  "count": 2258,
+  "message": "Showing 2258 places, hover over a place for info",
+  "places": [
+    {
+      "tpval": "YMCA",
+      "idval": "1242307",
+      "lat": 33.75754,
+      "lng": -84.42122,
+      "lnk": "ymca/1242307/westside-whitehead-branch-ymca",
+      "nam": "Westside Whitehead Branch YMCA",
+      "cat": "YMCA",
+      "pho": "",
+      "hd1": "Programs: Aquatics, Camping, Childcare, Community Development, Sports",
+      "hd2": "Facilities: Gym, Computer Room",
+      "hd3": "",
+      "hd4": "",
+      "adr": "101 Ollie St NW, Atlanta GA",
+      "geo": "",
+      "dsc": "",
+      "ico": "icon_y_black",
+      "sp4": ""
+    }
+  ]
+}

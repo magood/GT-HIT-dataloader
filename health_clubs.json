@@ -1,0 +1,25 @@
+{
+  "count": 34653,
+  "message": "Showing 34653 places, hover over a place for info",
+  "places": [
+    {
+      "tpval": "HEALTH_CLUBS",
+      "idval": "11530",
+      "lat": 31.94604,
+      "lng": -97.3154,
+      "lnk": "health-clubs/11530/curves",
+      "nam": "Curves",
+      "cat": "Health Clubs and Gyms",
+      "pho": "",
+      "hd1": "",
+      "hd2": "",
+      "hd3": "",
+      "hd4": "",
+      "adr": "403 South Bosque Street, Whitney TX",
+      "geo": "",
+      "dsc": "",
+      "ico": "icon_h_blue",
+      "sp4": ""
+    }
+  ]
+}

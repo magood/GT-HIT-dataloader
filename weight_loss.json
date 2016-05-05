@@ -1,0 +1,25 @@
+{
+  "count": 14633,
+  "message": "Showing 14633 places, hover over a place for info",
+  "places": [
+    {
+      "tpval": "WEIGHT_LOSS",
+      "idval": "14954",
+      "lat": 33.41206,
+      "lng": -82.0257,
+      "lnk": "weight-loss/14954/phc-weight-loss-centers",
+      "nam": "Phc Weight Loss Centers",
+      "cat": "Weight Loss Control Programs",
+      "pho": "",
+      "hd1": "",
+      "hd2": "",
+      "hd3": "",
+      "hd4": "",
+      "adr": "3108 Peach Orchard Road, Augusta GA",
+      "geo": "",
+      "dsc": "",
+      "ico": "icon_w_yellow",
+      "sp4": ""
+    }
+  ]
+}
